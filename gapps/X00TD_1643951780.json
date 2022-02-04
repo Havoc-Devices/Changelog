@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed call recording  <br/>-Added Zenparts 2.0 ,works with custom kernel"
+    }
+  ]
+}
